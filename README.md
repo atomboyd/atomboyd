@@ -1,5 +1,4 @@
-<!-- ![Adam's GitHub stats] -->
-(https://github-readme-stats.vercel.app/api?username=atomboyd&count_private=true&theme=vue-dark)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomboyd&count_private=true&theme=vue-dark)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
