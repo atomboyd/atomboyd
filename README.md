@@ -1,4 +1,6 @@
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomboyd&count_private=true&theme=vue-dark)]
+<!-- ![Adam's GitHub stats] -->
+(https://github-readme-stats.vercel.app/api?username=atomboyd&count_private=true&theme=vue-dark)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
 **atomboyd/atomboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
